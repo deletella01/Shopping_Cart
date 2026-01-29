@@ -6,6 +6,10 @@ This project is a simple TypeScript implementation of a shopping page and a func
 
 In the project directory, you can run:
 
+
+### npm install
+installs dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.\
